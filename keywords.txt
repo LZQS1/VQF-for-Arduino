@@ -1,0 +1,7 @@
+IMU	KEYWORD1
+imuInit	KEYWORD2
+imuGetRawData	KEYWORD2
+imuPreProcessData	KEYWORD2
+imuReadEuler	KEYWORD2
+imuResetYaw	KEYWORD2
+imuCalibrateAccel	KEYWORD2
